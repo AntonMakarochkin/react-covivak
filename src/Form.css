@@ -1,0 +1,15 @@
+form{
+    
+    display: flex;
+    flex-direction: column;
+    width: 900px;
+    margin: 0 auto;
+}
+
+select{
+    height: 100px;
+    color: lightcoral;
+    box-sizing: border-box;
+    padding: 10px 0px;
+    margin: 10px 0px;
+}
